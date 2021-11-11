@@ -288,6 +288,7 @@ input:focus {
 }
 
 .whatTheyThink{
+    text-align: center;
     padding: 10px;
     background-color: rgb(171, 171, 221);
     width: 18%;
@@ -504,7 +505,7 @@ input:focus {
 .pricing{
     width: 11%;
     margin: 0 auto;
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
 .viewPricing{
@@ -529,6 +530,7 @@ input:focus {
     margin: 0 auto;
 }
 .core{
+    text-align: center;
     padding: 10px;
     background-color: rgb(88, 88, 160);
     width: 15%;
@@ -587,6 +589,7 @@ input:focus {
     margin: 0 auto;
 }
 .integrations{
+    text-align:center;
     padding: 10px;
     background-color: rgb(171, 171, 221);
     width: 11%;
